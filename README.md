@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/bootstrap-5b2c6f.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-d35400.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![NodeJs](https://img.shields.io/badge/nodejs-27ae60.svg?style=for-the-badge&logo=node-js&logoColor=white)
+![Node.Js](https://img.shields.io/badge/nodejs-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 <br/>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
